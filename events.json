@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Cape Town Jazz Festival",
+    "date": "15 Dec 2025",
+    "location": "Cape Town International Convention Centre",
+    "price": "R450",
+    "image": "https://images.unsplash.com/photo-1551782450-17144c3fa16e",
+    "link": "https://www.webtickets.co.za/"
+  },
+  {
+    "title": "Durban Summer Beach Party",
+    "date": "21 Dec 2025",
+    "location": "Durban North Beach",
+    "price": "R250",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "link": "https://computicket.com/"
+  },
+  {
+    "title": "Joburg NYE Countdown",
+    "date": "31 Dec 2025",
+    "location": "Nelson Mandela Square, Sandton",
+    "price": "R600",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "link": "https://howler.co.za/"
+  }
+]
