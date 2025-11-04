@@ -4,7 +4,7 @@
     "date": "15 Dec 2025",
     "location": "Cape Town International Convention Centre",
     "price": "R450",
-    "image": "https://images.unsplash.com/photo-1551782450-17144c3fa16e",
+    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93",
     "link": "https://www.webtickets.co.za/"
   },
   {
@@ -12,7 +12,7 @@
     "date": "21 Dec 2025",
     "location": "Durban North Beach",
     "price": "R250",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     "link": "https://computicket.com/"
   },
   {
@@ -20,7 +20,143 @@
     "date": "31 Dec 2025",
     "location": "Nelson Mandela Square, Sandton",
     "price": "R600",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
     "link": "https://howler.co.za/"
+  },
+  {
+    "title": "Soweto Arts & Culture Festival",
+    "date": "10 Jan 2026",
+    "location": "Walter Sisulu Square, Soweto",
+    "price": "R200",
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7",
+    "link": "https://www.webtickets.co.za/"
+  },
+  {
+    "title": "Sun City Pool & Chill Weekend",
+    "date": "24 Jan 2026",
+    "location": "Sun City Resort, North West",
+    "price": "R850",
+    "image": "https://images.unsplash.com/photo-1519340333755-5064e0bbfa8e",
+    "link": "https://howler.co.za/"
+  },
+  {
+    "title": "Stellenbosch Wine Festival",
+    "date": "08 Feb 2026",
+    "location": "Coetzenburg Sports Ground, Stellenbosch",
+    "price": "R300",
+    "image": "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03",
+    "link": "https://computicket.com/"
+  },
+  {
+    "title": "Ultra South Africa EDM Festival",
+    "date": "28 Feb 2026",
+    "location": "Expo Centre, Nasrec, Johannesburg",
+    "price": "R950",
+    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30",
+    "link": "https://ultrasouthafrica.com/"
+  },
+  {
+    "title": "Cape Town Carnival",
+    "date": "15 Mar 2026",
+    "location": "Green Point, Cape Town",
+    "price": "R100",
+    "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc",
+    "link": "https://capetowncarnival.com/"
+  },
+  {
+    "title": "OppiKoppi Music Festival",
+    "date": "03 Apr 2026",
+    "location": "Northam, Limpopo",
+    "price": "R750",
+    "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2",
+    "link": "https://howler.co.za/"
+  },
+  {
+    "title": "Maboneng Street Food Market",
+    "date": "12 Apr 2026",
+    "location": "Maboneng Precinct, Johannesburg",
+    "price": "Free Entry",
+    "image": "https://images.unsplash.com/photo-1556742044-3c52d6e88c62",
+    "link": "https://www.webtickets.co.za/"
+  },
+  {
+    "title": "Durban Surf & Sound Festival",
+    "date": "02 May 2026",
+    "location": "uShaka Beach, Durban",
+    "price": "R320",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "link": "https://computicket.com/"
+  },
+  {
+    "title": "Pretoria Gospel Explosion",
+    "date": "20 Jun 2026",
+    "location": "Heartfelt Arena, Pretoria",
+    "price": "R400",
+    "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2",
+    "link": "https://www.webtickets.co.za/"
+  },
+  {
+    "title": "Kruger Park Safari & Music Camp",
+    "date": "12 Jul 2026",
+    "location": "Skukuza Camp, Kruger National Park",
+    "price": "R1200",
+    "image": "https://images.unsplash.com/photo-1562953289-7c67f3b3f529",
+    "link": "https://howler.co.za/"
+  },
+  {
+    "title": "Nelson Mandela Day Marathon",
+    "date": "18 Jul 2026",
+    "location": "Pietermaritzburg, KwaZulu-Natal",
+    "price": "R180",
+    "image": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf",
+    "link": "https://mandelamarathon.co.za/"
+  },
+  {
+    "title": "Joburg Film Festival",
+    "date": "05 Aug 2026",
+    "location": "Sandton Convention Centre, Johannesburg",
+    "price": "R350",
+    "image": "https://images.unsplash.com/photo-1518972559570-7cc1309f3229",
+    "link": "https://joburgfilmfestival.co.za/"
+  },
+  {
+    "title": "Bloemfontein Comedy Night",
+    "date": "19 Sep 2026",
+    "location": "Windmill Casino, Bloemfontein",
+    "price": "R280",
+    "image": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980",
+    "link": "https://computicket.com/"
+  },
+  {
+    "title": "Spring Fiesta Music Festival",
+    "date": "05 Oct 2026",
+    "location": "Wild Waters, Boksburg",
+    "price": "R700",
+    "image": "https://images.unsplash.com/photo-1518972559570-7cc1309f3229",
+    "link": "https://howler.co.za/"
+  },
+  {
+    "title": "Cape Winelands Marathon",
+    "date": "26 Oct 2026",
+    "location": "Paarl, Western Cape",
+    "price": "R250",
+    "image": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf",
+    "link": "https://www.webtickets.co.za/"
+  },
+  {
+    "title": "Joburg Fashion Week",
+    "date": "14 Nov 2026",
+    "location": "Sandton Convention Centre, Johannesburg",
+    "price": "R500",
+    "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+    "link": "https://computicket.com/"
+  },
+  {
+    "title": "Cape Town Christmas Market",
+    "date": "10 Dec 2026",
+    "location": "V&A Waterfront, Cape Town",
+    "price": "Free Entry",
+    "image": "https://images.unsplash.com/photo-1513791058460-3d9c03b74b6d",
+    "link": "https://www.webtickets.co.za/"
   }
 ]
